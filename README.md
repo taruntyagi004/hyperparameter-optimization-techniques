@@ -4,7 +4,7 @@ In this project, we explore several techniques that can be used for hyperparamet
 
 - Grid Search (with and without the usage of pipelines)
 - Random Search (with and without the usage of pipelines)
-- Bayesian Optimization with Gaussian Process
+- Bayesian Optimization with Gaussian Processes
 - Hyperopt (<https://github.com/hyperopt/hyperopt>)
 - Optuna (<https://github.com/optuna/optuna>)
 
